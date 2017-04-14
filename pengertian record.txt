@@ -1,0 +1,10 @@
+PENGERTIAN RECORD
+Sebuah record merupakan koleksi asatuan data yang heterogen,yakni tediri dari berbagai type.
+Satuan data tersebut sering disebut sebagai field dari record.Field dipanggil dengan menggunakan
+namanya masing-masing.Suatu field dapat terdiri atas beberapa subfield
+
+PERBEDAAN ARRAY  DAN RECORD :
+-Array adalah struktur data yang tipe data dari elemen-elemennya harus
+ sama (homogen) dan elemen-elemennya diakses atau diindetifikasi menggunakan indeks.
+-Record adalah struktur data yang tipe data dari elemen-elemennya tidak harus sama
+ (heterogen) dan elemen-elemennya diakses atau diidentifikasi menggunakan identifier atau nama variabel.
